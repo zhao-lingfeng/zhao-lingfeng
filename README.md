@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to my GitHub
 
-<!--
-**zhao-lingfeng/zhao-lingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zhao Lingfeng**, a Master's student at Kyushu Institute of Technology 🇯🇵  
+🎓 I specialize in human activity recognition using pose estimation, machine learning, and large language models (LLMs).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Research Interests
+
+- 🧍 Human activity recognition  
+- 🦾 Pose estimation & skeleton-based modeling  
+- 🏥 AI in healthcare  
+- 📊 Data science & machine learning  
+- 🧠 Large language models (LLMs)
