@@ -17,11 +17,11 @@
 
 ## 🧠 Research Interests
 
-- 🧍 **Human activity recognition**  
-- 🦾 **Pose estimation & skeleton-based modeling**  
+- 👁️ **Computer vision**
+- 🧍 **Human activity recognition**
+- 🧠 **Large language models (LLMs)**
 - 🏥 **AI in healthcare applications**  
 - 📊 **Data science & machine learning**  
-- 🧠 **Large language models (LLMs)**
 
 ---
 
