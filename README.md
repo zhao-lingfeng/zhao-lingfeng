@@ -3,7 +3,6 @@
 ## About Me
 🧑‍💻 **Zhao Lingfeng** | Master's Student @ Kyushu Institute of Technology  
 🎓 Human Activity Recognition · Computer Vision · Machine Learning · LLMs
-
 🏀 Passionate about **basketball** and 🎮 **video games** in spare time
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
