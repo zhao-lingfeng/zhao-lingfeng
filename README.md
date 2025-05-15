@@ -1,6 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub
 
-I'm **Zhao Lingfeng**, a Master's student at Kyushu Institute of Technology 🇯🇵  
+🧑‍💻 I'm **Zhao Lingfeng**, a Master's student at Kyushu Institute of Technology 🇯🇵  
 🎓 I specialize in human activity recognition using pose estimation, machine learning, and large language models (LLMs).  
 
 ---
