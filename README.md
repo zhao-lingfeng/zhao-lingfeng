@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! Welcome to my GitHub</h1>
 
 <p align="center">
-  🧑‍💻 <strong>Zhao Lingfeng</strong> | Master's Student @ Kyushu Institute of Technology 🇯🇵  
+  🧑‍💻 <strong>Zhao Lingfeng</strong> | Master's Student @ Kyushu Institute of Technology
   <br>
   🎓 Human Activity Recognition · Pose Estimation · Machine Learning · LLMs
 </p>
@@ -32,5 +32,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhao-lingfeng&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-lingfeng&layout=compact&theme=tokyonight" height="160"/>
 </p>
