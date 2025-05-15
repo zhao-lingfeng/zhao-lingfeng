@@ -1,20 +1,17 @@
-<h1 align="center">👋 Hi there! Welcome to my GitHub</h1>
+# 👋 Hi there! Welcome to my GitHub
 
-<p align="center">
-  🧑‍💻 <strong>Zhao Lingfeng</strong> | Master's Student @ Kyushu Institute of Technology
-  <br>
-  🎓 Human Activity Recognition · Pose Estimation · Machine Learning · LLMs
-</p>
+🧑‍💻 **Zhao Lingfeng** | Master's Student @ Kyushu Institute of Technology  
+🎓 Human Activity Recognition · Pose Estimation · Machine Learning · LLMs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python" />
-  <img src="https://img.shields.io/badge/PyTorch-E95420?logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/MediaPipe-FFD700?logo=google" />
-  <img src="https://img.shields.io/badge/LLM-GPT--4-5E97F6?logo=openai" />
-  <img src="https://img.shields.io/badge/SMOTE-Data%20Aug-green" />
-</p>
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+![PyTorch](https://img.shields.io/badge/PyTorch-E95420?logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
 
@@ -30,6 +27,4 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhao-lingfeng&show_icons=true&theme=tokyonight" height="160" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhao-lingfeng&show_icons=true&theme=tokyonight)
