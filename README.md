@@ -23,9 +23,3 @@
 - 🧠 **Large language models (LLMs)**
 - 🏥 **AI in healthcare applications**  
 - 📊 **Data science & machine learning**
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhao-lingfeng&show_icons=true&theme=tokyonight)
